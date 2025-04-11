@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1-id="" tvg-name="beIN Sport 1 " tvg-logo="" group-title="Sport 2",beIN Sport 1 [THQ]
+http://tv.kudigital.pw:8080/22012025KM/22012025/344
+#EXTINF:-1-id="" tvg-name="beIN Sport 2" tvg-logo="" group-title="Sport 2",beIN Sport 2 [THQ]
+http://tv.kudigital.pw:8080/22012025KM/22012025/345
+#EXTINF:-1-id="" tvg-name="beIN Sport 3" tvg-logo="" group-title="Sport 2",beIN Sport 3 [THQ]
+http://tv.kudigital.pw:8080/22012025KM/22012025/346
+#EXTINF:-1-id="" tvg-name="beIN Sport 4 " tvg-logo="" group-title="Sport 2",beIN Sport 4 [THQ]
+http://tv.kudigital.pw:8080/22012025KM/22012025/347
+#EXTINF:-1-id="" tvg-name="beIN Sport 5 " tvg-logo="" group-title="Sport 2",beIN Sport 5 [THQ]
+http://tv.kudigital.pw:8080/22012025KM/22012025/348
+#EXTINF:-1-id="" tvg-name="beIN Sport 1 English" tvg-logo="" group-title="Sport 2",beIN Sport 1 English [THQ]
+http://tv.kudigital.pw:8080/22012025KM/22012025/3671
+#EXTINF:-1-id="" tvg-name="Premiere League 1" tvg-logo="" group-title="Sport 2",Premiere League 1 [THQ]
+http://tv.kudigital.pw:8080/22012025KM/22012025/167
+#EXTINF:-1-id="" tvg-name="Premiere League 2" tvg-logo="" group-title="Sport 2",Premiere League 2 [THQ]
+http://tv.kudigital.pw:8080/22012025KM/22012025/168
+#EXTINF:-1-id="" tvg-name="TNT Sport 1" tvg-logo="https://go.erabaru.my.id/live/tnt0.png" group-title="Sport 2",TNT Sport 1 [THQ]
+http://tv.kudigital.pw:8080/22012025KM/22012025/3168
+#EXTINF:-1-id="" tvg-name="TNT Sport 2" tvg-logo="https://go.erabaru.my.id/live/tnt0.png" group-title="Sport 2",TNT Sport 2 [THQ]
+http://tv.kudigital.pw:8080/22012025KM/22012025/3169
+#EXTINF:-1-id="" tvg-name="TNT Sport 3" tvg-logo="https://go.erabaru.my.id/live/tnt0.png" group-title="Sport 2",TNT Sport 3 [THQ]
+http://tv.kudigital.pw:8080/22012025KM/22012025/3170
+#EXTINF:-1-id="" tvg-name="TNT Sport 4" tvg-logo="https://go.erabaru.my.id/live/tnt0.png" group-title="Sport 2",TNT Sport 4 [THQ]
+http://tv.kudigital.pw:8080/22012025KM/22012025/3171
+#EXTINF:-1-id="" tvg-name="TNT Sport 5" tvg-logo="https://go.erabaru.my.id/live/tnt0.png" group-title="Sport 2",TNT Sport 5 [THQ]
+http://tv.kudigital.pw:8080/22012025KM/22012025/3172
