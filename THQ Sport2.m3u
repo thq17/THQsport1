@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1-id="" tvg-name="beIN Sport 1 " tvg-logo="" group-title="Sport 1",beIN Sport 1 [THQ]
 http://tv.kudigital.pw:8080/22012025KM/22012025/344
-#EXTINF:-1-id="" tvg-name="beIN Sport 1" tvg-logo="" group-title="Sport 1",beIN Sport 1 [THQ]
+#EXTINF:-1-id="" tvg-name="beIN Sport 2" tvg-logo="" group-title="Sport 1",beIN Sport 1 [THQ]
 http://tv.kudigital.pw:8080/22012025KM/22012025/345
 #EXTINF:-1-id="" tvg-name="beIN Sport 3" tvg-logo="" group-title="Sport 1",beIN Sport 3 [THQ]
 http://tv.kudigital.pw:8080/22012025KM/22012025/346
@@ -17,7 +17,7 @@ http://tv.kudigital.pw:8080/22012025KM/22012025/167
 http://tv.kudigital.pw:8080/22012025KM/22012025/168
 #EXTINF:-1-id="" tvg-name="TNT Sport 1" tvg-logo="https://go.erabaru.my.id/live/tnt0.png" group-title="Sport 1",TNT Sport 1 [THQ]
 http://tv.kudigital.pw:8080/22012025KM/22012025/3168
-#EXTINF:-1-id="" tvg-name="TNT Sport 1" tvg-logo="https://go.erabaru.my.id/live/tnt0.png" group-title="Sport 1",TNT Sport 1 [THQ]
+#EXTINF:-1-id="" tvg-name="TNT Sport 2" tvg-logo="https://go.erabaru.my.id/live/tnt0.png" group-title="Sport 1",TNT Sport 1 [THQ]
 http://tv.kudigital.pw:8080/22012025KM/22012025/3169
 #EXTINF:-1-id="" tvg-name="TNT Sport 3" tvg-logo="https://go.erabaru.my.id/live/tnt0.png" group-title="Sport 1",TNT Sport 3 [THQ]
 http://tv.kudigital.pw:8080/22012025KM/22012025/3170
