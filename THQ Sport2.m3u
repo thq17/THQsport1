@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-2 tvg-id="" tvg-name="SPOTV" tvg-logo="https://go.erabaru.my.id/live/spotv.png" group-title="Sport 1",SPOTV [THQ]
+#EXTINF:3 tvg-id="" tvg-name="SPOTV" tvg-logo="https://go.erabaru.my.id/live/spotv.png" group-title="Sport 1",SPOTV [THQ]
 http://tv.kudigital.pw:8080/JYFLbPBUDj/fQAY27MD3i/74
-#EXTINF:-2 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://go.erabaru.my.id/live/spotv.png" group-title="Sport 1",SPOTV 2 [THQ]
+#EXTINF:3 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://go.erabaru.my.id/live/spotv.png" group-title="Sport 1",SPOTV 2 [THQ]
 http://tv.kudigital.pw:8080/JYFLbPBUDj/fQAY27MD3i/75
 #EXTINF:-2 tvg-id="" tvg-name="beIN Sport 1 " tvg-logo="" group-title="Sport 2",beIN Sport 1 [THQ]
 http://tv.kudigital.pw:8080/JYFLbPBUDj/fQAY27MD3i/344
